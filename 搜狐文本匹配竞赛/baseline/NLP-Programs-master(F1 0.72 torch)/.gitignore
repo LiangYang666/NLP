@@ -1,0 +1,6 @@
+datas/
+.DS_Store
+.idea
+__pycache__/
+01_embeddings/.data
+other/
